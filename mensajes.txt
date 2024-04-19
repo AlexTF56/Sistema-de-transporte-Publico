@@ -1,0 +1,1 @@
+Tiempo de la estación registrado correctamente para el viaje con ID 1.
